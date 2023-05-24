@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Keycad_fun-rescue")(type "Legacy")(uri "${KIPRJMOD}/Keycad_fun-rescue.lib")(options "")(descr ""))
+)
